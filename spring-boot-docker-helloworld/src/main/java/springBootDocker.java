@@ -8,7 +8,7 @@ public class springBootDocker {
 
     @GetMapping("/welcome")
     public String welcome() {
-        return "Welcome to LOLC";
+        return "Welcome to lolc";
     }
 }
 
